@@ -1,0 +1,2 @@
+# Requires: pseudo-eternity
+# (Not available on PyPI)
